@@ -1,6 +1,6 @@
 # Sort_It
-Sorting Algorithms Visualizer
-Bubble Sort
+Sorting Algorithms Visualizer  
+Bubble Sort  
 Selection Sort
 Insertion Sort
 Quick Sort
